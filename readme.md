@@ -118,6 +118,7 @@ const keyManager = require('./key-manager');
 `
 ### Final result:
 ![](imgs/14.png)
+![](f.png)
 
 ## 4. Learn to transfer tokens to an account on the Casper Testnet. Check out this documentation.
 ### Screnshot of transfering tokens:
