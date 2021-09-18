@@ -4,7 +4,7 @@
 ## 1. Create and deploy a simple, smart contract with cargo casper and cargo test
 
 
-### The screenshot of deploying the contract to testnet:
+### The screenshot of build
 
 
 ![](imgs/1.png)
